@@ -9,6 +9,3 @@ I am now a 2rd year student in a 5 years' Ph.D. program in Empowerment Informati
 
 Before joining this lab, I was in a bachelor's pilot program in engineering (Mechanical Engineering and Automation) in Jilin University, China. My bachelor graduate project was done under supervision by Prof. [DongF. Wang](https://teachers.jlu.edu.cn/dongfwang).
 
-
-# Projects
-*   [Qolo](./news.html).
