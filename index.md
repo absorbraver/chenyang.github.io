@@ -17,3 +17,6 @@ Before joining this lab, I was in a bachelor's pilot program in engineering (Mec
 5. 2020/03/25, I got my master degree in Human Informatics, and will continue my Ph. D program.
 6. 2020/07/01, my paper "Control Interface for Hands-free Navigation of Standing Mobility Vehicles based on Upper-Body Natural Movements" was accepted by [IROS 2020](https://www.iros2020.org/).
 7. 2021/04/27, my first journal paper "Virtual Landmark Based Control of Docking Support for Assistive Mobility Devices” was accepted by [IEEE/ASME Transactions on Mechatronics, 2021](http://www.ieee-asme-mechatronics.info/focus-sections/).
+8. 2021/08/10, I started my internship at CNRS-AIST JRL. I will work on a topic of complementary SLAM for immersive teleoperation.
+9. 2021/09/15, My application of proposing a novel stair-climbing robot for a smalll grant is accepted by my doctoral program office. I am excited to work on this hobby project.
+10. 2021/09/27, I am selected as JSPS research fellow DC2.
