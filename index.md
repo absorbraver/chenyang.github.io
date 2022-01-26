@@ -4,7 +4,7 @@ title: Yang Chen
 description: :)
 ---
 
-# Career
+# Bio
 I am now a 4th year student in a 5 years' Ph.D. program in Empowerment Informatics at University of Tsukuba. I am studying at [Artificial Intelligence Lab](http://www.ai.iit.tsukuba.ac.jp/index.html) supervised by [Prof. Kenji Suzuki](http://www.ai.iit.tsukuba.ac.jp/kenji/index.html). I am involed in a standing mobility device project [Qolo: A Standing Mobility Vehicle](http://www.ai.iit.tsukuba.ac.jp/research/046.html) now.  During Augest 2019 - Octoer 2019, I was a visiting student at [LASA](http://lasa.epfl.ch/) supervised by [Prof. Aude Billard](http://lasa.epfl.ch/people/member.php?SCIPER=115671) in EPFL. My research interest includes Human-machine interaction, Autonomous docking, 3D image processing, Control theory and so on.
 
 Before joining this lab, I was in a bachelor's pilot program in engineering (Mechanical Engineering and Automation) in Jilin University, China. My bachelor graduate project was done under supervision by Prof. [DongF. Wang](https://teachers.jlu.edu.cn/dongfwang).
@@ -21,3 +21,4 @@ Before joining this lab, I was in a bachelor's pilot program in engineering (Mec
 9. 2021/09/15, My application of proposing a novel stair-climbing robot for a smalll grant is accepted by my doctoral program office. I am excited to work on this hobby project.
 10. 2021/09/27, I am selected as JSPS research fellow DC2. The fellowship period is 2022/04/01 ~ 2024/03/31.
 11. 2021/11/01, I am selected as JST SPRING Fellowship Qualified Students (Class 1). The fellowship period is 2021/10/01 ~ 2022/03/31.
+12. 2021/11/24, our journal paper "Personal Mobility with Synchronous Trunk-Knee Passive Exoskeleton: Optimizing Human-Robot Energy Transfer” was accepted by [IEEE/ASME Transactions on Mechatronics, 2021](https://ieeexplore.ieee.org/document/9674755)
