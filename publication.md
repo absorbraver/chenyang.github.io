@@ -12,6 +12,7 @@ Mobility Vehicle for the Lower-body Impaired, –Integrating Autonomous Docking 
 5. Yang, C., Paez, D., Kadone, H., and Suzuki, K., "Control Interface for Hands-free Navigation of Standing Mobility Vehicles based on Upper-Body Natural Movements" IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2020), 2020. (Accepted)
 6. Y. Chen, D. Paez-Granados, B. Leme, and K. Suzuki, “Virtual Landmark Based Control of Docking Support for Assistive Mobility Devices”, IEEE/ASME Transactions on Mechatronics, 2021 (Accpeted)
 7. D. Paez-Granados, M. Hassan, Y. Chen, H. Kadone, & K. Suzuki, “Personal Mobility with Synchronous Trunk-Knee Passive Exoskeleton: Optimizing Human-Robot Energy Transfer”, IEEE/ASME Transactions on Mechatronics, 2021. (Accpeted)
+8. R. Cisneros-Limó, M. Benallegue, K. Kaneko, H. Kaminaga, G. Caron, A. Tanguy, R. Singh, L. Sun, A. Dallard, C. Fournier, M. Tsuru, C. Yang, Y. Osawa, G. Lorthioir, F. Kanehiro, and A. Khed- dar, “Team JANUS humanoid avatar: A cybernetic avatar to embody human telepresence,” in RSS 2022 Workshop on "Towards Robot Avatars: Perspectives on the ANA Avatar XPRIZE Competition", 2022.
 
 
 [back to home](./)
